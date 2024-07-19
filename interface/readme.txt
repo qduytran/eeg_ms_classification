@@ -1,3 +1,3 @@
-This folder is interface for predicting MS disease using EEG data
-In order to run interface, please install streamlit and run streamlit app.py in command window
-
+- This folder is interface for predicting MS disease using EEG data
+- In order to run interface, please install streamlit and run streamlit app.py in command window
+- Make sure when running code in command, pickle file and data file (including .set file and .fdt file) exist in folder to upload to the interface when running
